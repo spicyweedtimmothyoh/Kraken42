@@ -11,12 +11,53 @@ Kraken themed 6x3+3 ergonomic split keyboard heavily inspired by corne layout.
 
 
 ### BOM
+# KillerSplit
 
-| Product | Quantity | Source | Price($) | Link |
+An ergonomic, wireless, split, low-profile keyboard. This is a fusion between a Corne and a ZMK Voyager. It has a 6-column layout like the Corne, but the thumb buttons are placed like a Voyager.
+I got the inspiration and motivation after looking at so many cool designs in r/ErgoMechKeyboards so wanted to make one of my own.
+
+## Features
+
+- Column staggered
+- Ortholinear
+- 42 keys
+- Low profile Choc Tactile Switches
+- Wireless
+- ZMK Firmware
+- Hotswappable
+
+
+![assembled left](./assets/Left_Assembled.png)
+![assembled right](./assets/Right_Assembled.png)
+
+## CAD
+Left | Right
+:---:|:---:
+![case left](./assets/case_left.png) | ![case right](./assets/case_right.png)
+
+## PCB
+
+![schematic](./assets/schematic.png)
+Left | Right
+:---:|:---:
+![Left PCB](./assets/left_pcb.png) | ![Right PCB](./assets/right_pcb.png)
+
+## ZMK Keymap
+
+![default](./assets/default_layer.png)
+![lower](./assets/lower_layer.png)
+![raise](./assets/raise_layer.png)
+
+### BOM
+
+| Product | Quantity | Source | Price(INR) | Price($) | Link |
 | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
 | Kailh Choc Low Profile Switches | 50 | Typeractive | - | 27.5 | [here](https://typeractive.xyz/products/choc-switches?variant=51038935122151) |
 | Battery Jack | 2 | Typeractive | - | 2 | [here](https://typeractive.xyz/products/battery-jack?variant=46024892186855) |
 | Reset Button | 2 | Typeractive | - | 1.50 | [here](https://typeractive.xyz/products/reset-button?variant=45597784932583) |
+| Power Switch | 2 | Typeractive | - | 1.50 | [here](https://typeractive.xyz/products/power-switch?variant=45597854171367) |
+| Choc hotswap Sockets | 50 | Typeractive | - | 7.50 | [here](https://typeractive.xyz/products/hotswap-sockets?variant=45742200324327) |
+| MBK Choc Keycaps 1.5u | 2 | Typeractive | - | 1.50 | [here](https://typeractive.xyz/products/mbk-keycaps?variant=45419753210087) |
 | MBK Choc Keycaps 1u | 40 | Typeractive | - | 12 | [here](https://typeractive.xyz/products/mbk-keycaps?variant=45419753079015) |
 | Tenting Feet | 4 | Typeractive | - | 15 | [here](https://typeractive.xyz/products/tenting-feet) |
 | Lithium Battery 110mah | 2 | Typeractive | - | 8 | [here](https://typeractive.xyz/products/lithium-battery-110mah?variant=46118748291303) |
