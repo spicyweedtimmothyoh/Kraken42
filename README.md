@@ -1,22 +1,19 @@
-<h1 align="center">
-Kraken42
-</h1>
+<div align="center">
 
-<h2 align="center">
-Kraken themed 6x3+3 ergonomic split keyboard heavily inspired by corne layout.
-</h2>
+# 🦑 Kraken42
 
-<p align="center">
-  <img src="https://github.com/spicyweedtimmothyoh/Kraken42/blob/main/images/kraken.svg" width="25%">
-</p>
+### *Kraken themed ergonomic split keyboard heavily inspired by the Corne layout*
 
-## Created With
-![KiCad](https://img.shields.io/badge/kicad-%23314CB0.svg?style=for-the-badge&logo=kicad&logoColor=white)
+<img src="https://github.com/spicyweedtimmothyoh/Kraken42/blob/main/images/kraken.svg" width="200">
 
-![AutoDesk](https://img.shields.io/badge/autodesk-%23000000.svg?style=for-the-badge&logo=autodesk&logoColor=white)
+![KiCad](https://img.shields.io/badge/kicad-%23314CB0.svg?style=flat-square&logo=kicad&logoColor=white)
+![Fusion360](https://img.shields.io/badge/fusion360-%23000000.svg?style=flat-square&logo=autodesk&logoColor=white)
+![ZMK](https://img.shields.io/badge/ZMK%20Firmware-8A2BE2?style=flat-square)
 
-![Static Badge](https://img.shields.io/badge/ZMK%20Firmware-8A2BE2)
 
+---
+
+</div>
 
 ## Features
 
@@ -79,6 +76,3 @@ Designed with Fusion 360
 | Left & Right PCB + Shipping | 5 | JLCPCB | 27.06 | - |
 
 ### Subtotal : 103.66
-
-
-
