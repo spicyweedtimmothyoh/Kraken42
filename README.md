@@ -78,7 +78,7 @@ Designed with Fusion 360
 | NRF52840 | 2 | aliexpress | 6.6 | [here](https://www.aliexpress.us/item/3256804386173217.html?spm=a2g0o.cart.0.0.441538datSC0UM&mp=1&pdp_npi=5%40dis%21USD%21USD%207.36%21USD%201.36%21%21USD%201.36%21%21%21%40210318a717666193235782056e1d7b%2112000046615178779%21ct%21US%21-1%21%211%210&gatewayAdapt=glo2usa) |
 | Left & Right PCB + Shipping | 5 | JLCPCB | 27.06 | - |
 
-
+### Subtotal : 103.66
 
 
 
