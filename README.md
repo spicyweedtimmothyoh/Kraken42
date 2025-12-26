@@ -2,7 +2,10 @@
 Kraken42
 </h1>
 
+<h2 align="center">
 Kraken themed 6x3+3 ergonomic split keyboard heavily inspired by corne layout.
+</h2>
+
 <p align="center">
   <img src="https://github.com/spicyweedtimmothyoh/Kraken42/blob/main/images/kraken.svg" width="25%">
 </p>
