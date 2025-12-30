@@ -4,6 +4,7 @@
 
 ### *Kraken themed ergonomic split keyboard heavily inspired by the Corne layout*
 
+
 <img src="https://github.com/spicyweedtimmothyoh/Kraken42/blob/main/images/kraken.svg" width="200">
 
 ![KiCad](https://img.shields.io/badge/kicad-%23314CB0.svg?style=flat-square&logo=kicad&logoColor=white)
@@ -12,6 +13,9 @@
 
 
 ---
+<p align="center">
+  <img src="https://github.com/spicyweedtimmothyoh/Kraken42/blob/main/images/Screenshot%202025-12-30%20115622.png" width="75%">
+</p>
 
 </div>
 
@@ -51,11 +55,11 @@ Designed with Fusion 360
 - assembled using 5x2 M3 screws
 
   <p align="center">
-  <img src="https://github.com/spicyweedtimmothyoh/Kraken42/blob/main/images/transparentFront.png" width="75%">
+  <img src="https://github.com/spicyweedtimmothyoh/Kraken42/blob/main/images/Screenshot%202025-12-30%20115614.png" width="75%">
 </p>
 
 <p align="center">
-  <img src="https://github.com/spicyweedtimmothyoh/Kraken42/blob/main/images/transparentSide.png" width="75%">
+  <img src="https://github.com/spicyweedtimmothyoh/Kraken42/blob/main/images/Screenshot%202025-12-30%20115622.png" width="75%">
 </p>
 
 
